@@ -1,0 +1,15 @@
+{
+  "name": "web3-todo-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "hardhat": "hardhat",
+    "start": "cd frontend && npm start"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "ethers": "^5.8.0",
+    "hardhat": "^2.23.0"
+  }
+}
